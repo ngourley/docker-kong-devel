@@ -1,5 +1,4 @@
 FROM centos:7
-MAINTAINER Marco Palladino, marco@mashape.com
 
 ENV KONG_VERSION 0.14.1
 

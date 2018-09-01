@@ -16,4 +16,4 @@ if [[ "$1" == "kong" ]]; then
   fi
 fi
 
-exec "$@"
+exec "$@" 
